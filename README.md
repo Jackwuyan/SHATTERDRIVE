@@ -36,7 +36,13 @@ the arena intensifies, and the run becomes increasingly chaotic.
 
 ## Screenshots
 
-[这里放你的实机截图]
+![SHATTERDRIVE Gameplay](gameplay-01.png)
+
+![SHATTERDRIVE Gameplay](gameplay-02.png)
+
+![SHATTERDRIVE Gameplay](gameplay-03.png)
+
+![SHATTERDRIVE Gameplay](gameplay-04.png)
 
 ## Development
 
